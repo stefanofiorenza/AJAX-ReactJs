@@ -67,18 +67,49 @@ This project aims to collect the **best free resources** for those that want to 
 
 #####  REACT BASICS
 
+
+###### @Traversy
 1. [React JS Crash Course 2019@Traversy Video](https://www.youtube.com/watch?v=sBws8MSXN7A&t=705s)
-   [React JS Crash Course 2019@Traversy Git] (https://github.com/bradtraversy/react_crash_todo)
+   - Git(https://github.com/bradtraversy/react_crash_todo)
+
+###### @Swartzmuller
+1. [Playlist Video](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+   - Git (https://github.com/mschwarzmueller/reactjs-basics)
+
+
+###### @LearnCodeAcademy:
+1. [Playlist Video] (https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+	- Git Unofficial: (https://github.com/learncodeacademy/react-js-tutorials)
+
 
 
 ##### REDUX
 
+###### @Traversy
 1. [Redux@Traversy Video](https://www.youtube.com/watch?v=93p3LxR9xfM)
-1.1  [Redux@Traversy Git] (https://github.com/bradtraversy/redux_crash_course)
+  - Git (https://github.com/bradtraversy/redux_crash_course)
    
+###### @Swartzmuller   
+1. [Redux@Swartzmuller Playlist] (https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+   (https://github.com/mschwarzmueller/reactjs-redux-basics)
    
+###### @CodeWalkThrough   
+1. [Redux@CodeWalkThrough Playlist] (https://www.youtube.com/playlist?list=PL7sCSgsRZ-slZBE_8vsxzs1Rgrj7SVS-0)  
+	- Git (https://github.com/johnazre/youtube-intro-to-redux)
+	
+###### @LearnCodeAcademy:	
+1. [Redux@LearnCodeAcademy Playlist]	
+	(https://www.youtube.com/watch?v=DJ8fR0mZM44&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=20&t=10s)
+	- Git Unofficial whole course React + Redux (https://github.com/baskoroi/react-redux)
+	
+	
+###### @Imran Sayed:		
+1. [Redux@Imran Sayed: Playlist]	(https://www.youtube.com/watch?v=M_xaxck1SVY&list=PLD8nQCAhR3tSSFktby1h8htS6QWTTneEr)
+	- Git (https://github.com/imranhsayed/redux-workshop/tree/combine-multiple-reducers)
+	
 ##### REACT CONTEXT API:
 
+###### @Traversy
 1. [Lyric Search App With React & Context API 1@Traversy Video](https://www.youtube.com/watch?v=NDEt0KdDbhk)  
 1. [Lyric Search App With React & Context API 2@Traversy Video](https://www.youtube.com/watch?v=jiM0wqQZMWg)
 1. [Lyric Search App With React & Context API 3@Traversy Video](https://www.youtube.com/watch?v=ktPocNL0qGg)  
@@ -87,6 +118,7 @@ This project aims to collect the **best free resources** for those that want to 
 
 ##### REACT HOOKS:
 
+###### @Traversy
 1. [ReactJs Hooks@Traversy Video](https://www.youtube.com/watch?v=mxK8b99iJTg)  
 1.1 [ReactJs Hooks@Traversy Docs](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components) 
 
