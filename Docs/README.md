@@ -74,7 +74,7 @@ This project aims to collect the **best free resources** for those that want to 
 ##### REDUX
 
 1. [Redux@Traversy Video](https://www.youtube.com/watch?v=93p3LxR9xfM)
-   [Redux@Traversy Git] (https://github.com/bradtraversy/redux_crash_course)
+1.1  [Redux@Traversy Git] (https://github.com/bradtraversy/redux_crash_course)
    
    
 ##### REACT CONTEXT API:
@@ -82,13 +82,13 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Lyric Search App With React & Context API 1@Traversy Video](https://www.youtube.com/watch?v=NDEt0KdDbhk)  
 1. [Lyric Search App With React & Context API 2@Traversy Video](https://www.youtube.com/watch?v=jiM0wqQZMWg)
 1. [Lyric Search App With React & Context API 3@Traversy Video](https://www.youtube.com/watch?v=ktPocNL0qGg)  
-1. [Lyric Search App With React & Context API@Traversy Git](https://github.com/bradtraversy/lyricfinder)   
+1.1 [Lyric Search App With React & Context API@Traversy Git](https://github.com/bradtraversy/lyricfinder)   
 
 
 ##### REACT HOOKS:
 
 1. [ReactJs Hooks@Traversy Video](https://www.youtube.com/watch?v=mxK8b99iJTg)  
-1. [ReactJs Hooks@Traversy Docs](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components) 
+1.1 [ReactJs Hooks@Traversy Docs](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components) 
 
 
 
