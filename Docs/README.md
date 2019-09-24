@@ -138,6 +138,9 @@ This project aims to collect the **best free resources** for those that want to 
 1. [Immutable.js: An Introduction with examples written for humans](http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/)
 
 
+### Mind Map Web Development in 2018
+https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0
+
 
 ## Inspiration And Additional Resources
 
