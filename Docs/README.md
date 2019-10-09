@@ -90,7 +90,7 @@ This project aims to collect the **best free resources** for those that want to 
   - Git (https://github.com/bradtraversy/redux_crash_course)
    
 ###### @Swartzmuller   
-1. [Redux@Swartzmuller Playlist] (https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+1. [Redux@Swartzmuller Playlist] (https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) 
    (https://github.com/mschwarzmueller/reactjs-redux-basics)
    
 ###### @CodeWalkThrough   
